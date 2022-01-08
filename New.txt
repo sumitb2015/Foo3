@@ -3,3 +3,5 @@ Hello. This is a new text file
 I am updating my file
 
 This is an updated file on the server
+
+ANother update to my updated file
